@@ -9,6 +9,22 @@ let resumeData = {
           githuburl: "",
         },
         {
+          name: "Personal Calculator",
+          description: "Light app to simulate a personnal calculator",
+          style: "App",
+          imgurl: "https://zupimages.net/up/21/26/yzzp.png",
+          url: "https://personalcalculator.netlify.app",
+          githuburl: "https://github.com/JeanFrancoisUccelli/calculate",
+        },
+        {
+          name: "Fizz Buzz",
+          description: "When you want to know if it's divisible by 3 or 5 or both",
+          style: "App",
+          imgurl: "https://zupimages.net/up/21/26/2dqm.png",
+          url: "https://fizzbuzz-ing.netlify.app",
+          githuburl: "https://github.com/JeanFrancoisUccelli/counter",
+        },
+        {
           name: "The Wild Circus",
           description: "Fullstack app (React, Node, Express, JWT)",
           style: "App",
