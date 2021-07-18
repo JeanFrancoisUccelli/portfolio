@@ -33,14 +33,23 @@ function App() {
             >
               M'envoyer un email
             </a>
-            <span class="or"> ou </span>
+            <span class="or">  </span>
             <a
               target="_blank"
               class="button"
               href="https://drive.google.com/file/d/1g-zsYpCWHcoRWS1PFsixk3goAE4xcVv6/view?usp=sharing"
               rel="noreferrer"
             >
-              Voir mon CV
+              Mon CV
+            </a>
+            <span class="or">  </span>
+            <a
+              target="_blank"
+              class="button"
+              href="https://www.linkedin.com/in/jeff-uccelli/"
+              rel="noreferrer"
+            >
+              Mon LinkedIn
             </a>
           </div>
           <hr />
